@@ -40,7 +40,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/misc.xml
-/.idea/.gitignore
-/.idea/vcs.xml
-/.idea/gradle.xml
+/.idea/
